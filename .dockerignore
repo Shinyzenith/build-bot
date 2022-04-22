@@ -1,0 +1,8 @@
+.editorconfig
+.gitignore
+Dockerfile
+Makefile
+__pycache__
+discord-version-api
+docker-compose.yml
+env.sample
